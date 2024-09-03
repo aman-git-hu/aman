@@ -1,0 +1,80 @@
+.container
+{
+    height: 100px;
+    max-width: 98%;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding: 20px;
+    margin-top: 50px;
+      
+}
+body
+{
+    background-color: black;
+}
+.section
+{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: larger;
+    display: flex;
+    margin-top: 20px;
+    font-size: 25px;
+    margin-left: 50px;
+    margin-bottom: 10px;
+}
+label input
+{
+    color: white;
+    background-color: #02010188;
+    padding: 10px;
+    display: flex;
+    text-align: left;
+    margin-right: 100px;
+    height: 10px;
+    line-break: normal;
+    margin-bottom: 20px;
+}
+label
+{
+    align-items:center;
+    display: flex;
+    margin-left: 540px;
+    margin-top: 50px;
+    margin-right: 1000px;
+    border: none;
+    display:block;
+    padding: 50px;
+    text-align:center;
+    justify-content: space-between;
+    color: white;
+    font-size: 10px;
+    line-break: normal;
+}
+form button
+{
+    display: flex;
+    margin-left: 45%;
+    width: 10%;
+    background-color: #c90f0f;
+    padding: 10px;
+    justify-content: center;
+    color: white;
+    margin-bottom: 10px;
+}
+form button:hover
+{
+    background-color: rgb(131, 12, 12);
+}
+body p
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none; 
+    font-size: small;
+}
